@@ -1,5 +1,5 @@
 <?php  
   
-$mysqli = new mysqli("localhost1", "root", "", "laravel_test");  
+$mysqli = new mysqli("localhost", "root", "", "laravel_test");  
   
 ?> 
